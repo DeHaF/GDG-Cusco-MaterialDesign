@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MD-Ejemplo2</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Subtitulos de MD-Ejemplo2 -->
+    <string name="tv_fab_md_ejemplo2">Tipos de Fab: </string>
+    <string name="tv_texto_md_ejemplo2">Tipos de Texto: </string>
+    <string name="tv_button_md_ejemplo2">Tipos de Button: </string>
+    <string name="tv_animacion_md_ejemplo2">Animación Revelar: </string>
+</resources>

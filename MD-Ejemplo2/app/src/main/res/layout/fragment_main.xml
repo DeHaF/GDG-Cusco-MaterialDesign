@@ -1,0 +1,192 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.fahed.developer.md_ejemplo2.MainActivityFragment"
+    tools:showIn="@layout/activity_main"
+    android:background="@android:color/white">
+
+    <!-- Tipo de Fab: 1er tipo compatible con todas las version y
+    el 2do tipo compatible desde Api 22 para adelante -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="#fff"
+        android:gravity="left|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_fab_md_ejemplo2"
+            android:id="@+id/textView"
+            android:fontFamily="sans-serif-regular"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+            <ImageButton
+                android:id="@+id/fab1"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:background="@drawable/oval_ripple"
+                android:src="@drawable/fab_plus"
+                android:elevation="6dp"
+                android:stateListAnimator="@anim/fab_raise"/>
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                app:fabSize="normal"
+                app:elevation="10dp"
+                app:pressedTranslationZ="25dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|end"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@android:drawable/ic_dialog_email" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Tipo de Texto: el 1ro texto normal roboto y
+    el 2do tipo con un tipo de letra externo -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="#fff"
+        android:gravity="left|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv_texto_md_ejemplo2"
+            android:id="@+id/textView2"
+            android:fontFamily="sans-serif-regular"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_margin="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fahed Hermoza"
+                android:id="@+id/tvNombre" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Desarrollador Android"
+                android:fontFamily="sans-serif-light"
+                android:id="@+id/tvDes"
+                android:textStyle="normal" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Tipo de Animacion: 1ro se muestra el efecto de onda sutil
+    y el 2do onda sutil con superficie elevada -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="#fff"
+        android:gravity="left|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:text="@string/tv_button_md_ejemplo2"
+            android:fontFamily="sans-serif-regular"
+            android:textSize="18sp"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INICIAR"
+                android:id="@+id/btnIniciar"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="@android:color/darker_gray"
+                android:elevation="16dp"
+                android:background="?attr/selectableItemBackground"
+                android:stateListAnimator="@anim/fab_raise"
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EMPEZAR"
+                android:id="@+id/btnEmpezar"
+                android:layout_above="@+id/btnIniciar"
+                android:layout_alignStart="@+id/btnIniciar"
+                android:elevation="4dp"
+                android:background="@drawable/rectangule_ripple"
+                android:textColor="@android:color/white"
+                android:stateListAnimator="@anim/fab_raise"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <!-- Tipo de Animacion: Tocar Superficie animacion revelar -->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:background="#fff"
+        android:elevation="4dp"
+        android:padding="5dp"
+        android:gravity="left|center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:text="@string/tv_animacion_md_ejemplo2"
+            android:fontFamily="sans-serif-regular"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:text="Developer Android"
+            android:id="@+id/tvDev"
+            android:layout_above="@+id/btnEmpezar"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+
+</LinearLayout>

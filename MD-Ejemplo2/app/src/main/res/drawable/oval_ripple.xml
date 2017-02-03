@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?android:colorControlHighlight">
+    <item>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="oval">   <!-- forma del elemento-->
+        <solid android:color="?attr/colorAccent" /> <!-- cambiar color de fondo-->
+    </shape>
+    </item>
+
+</ripple>
