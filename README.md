@@ -4,8 +4,7 @@
 Ejemplos de fundamentos Material Design
 =======================================
 
-Ejemplos de como utilizar los principios Superficies tangibles, Diseño grafico audaz, Movimiento significativo y Diseño Adaptativo.
-estan basados en el Curso "Material Design for Android Developers" - Udacity.
+Ejemplos de como utilizar los principios Superficies tangibles, Diseño grafico audaz, Movimiento significativo y Diseño Adaptativo, los ejemplos estan basados en el Curso "Material Design for Android Developers" - Udacity.
 
 Diapositivas: 
 
