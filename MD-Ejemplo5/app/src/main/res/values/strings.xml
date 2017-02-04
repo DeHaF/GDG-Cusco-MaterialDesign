@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MD-Ejemplo5</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_titulo">ADOPTAME!!</string>
+    <string name="tv_titulo_nombre">Nombre</string>
+    <string name="tv_nombre">Dona</string>
+    <string name="tv_titulo_raza">Raza</string>
+    <string name="tv_raza">Mestizo</string>
+    <string name="tv_titulo_genero">Genero</string>
+    <string name="tv_genero">Hembra</string>
+    <string name="tv_titulo_edad">Edad</string>
+    <string name="tv_edad">3 meses</string>
+    <string name="tv_titulo_peso">Peso</string>
+    <string name="tv_peso">20 lb</string>
+    <string name="tv_titulo_altura">Altura</string>
+    <string name="tv_altura">35 cm</string>
+</resources>

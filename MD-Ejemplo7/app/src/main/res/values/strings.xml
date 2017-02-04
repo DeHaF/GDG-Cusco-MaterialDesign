@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MD-Ejemplo7</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_book">DetailBook</string>
+    <string name="tv_libro1">Embedded Android: Porting, Extending, and Customizing</string>
+    <string name="tv_libro2">Efficient Android Threading</string>
+    <string name="tv_libro3">Android Internals: Power User View</string>
+    <string name="tv_libro4">Android App Development For Dummies</string>
+
+    <string name="tv_autor1">Karim Yaghmour</string>
+    <string name="tv_autor2">Anders Goransson</string>
+    <string name="tv_autor3">Jonathan Levin</string>
+    <string name="tv_autor4">Michael Burton</string>
+
+    <string name="tv_descripcion1">Mirando al puerto de Android para otras plataformas como dispositivos embebidos? Este libro práctico que muestra cómo funciona Android y cómo se puede adaptar para satisfacer sus necesidades. Vas a profundizar en la arquitectura de Android y aprender a navegar por su código fuente, modificar sus diversos componentes, y crear su propia versión de Android para su dispositivo en particular. También descubrirá cómo Android se diferencia de sus raíces Linux.</string>
+    <string name="tv_descripcion2">Autor Anders Goransson demuestra las ventajas y desventajas de cada técnica, con el código de muestra y explicaciones detalladas para utilizar de manera eficiente. La primera parte del libro describe los componentes básicos de procesamiento asincrónico, y la segunda parte abarca las bibliotecas y construcciones de Android para el desarrollo de aplicaciones rápido, sensible y bien estructurados.</string>
+    <string name="tv_descripcion3">Elementos internos Android :: Libro de cocina de un confitero es la primera vez que el funcionamiento interno del sistema operativo más popular del mundo se han documentado! Sin entrar en el código largo, que presenta la lógica y el flujo de los diversos componentes de Android usando ilustraciones detalladas, anotaciones detallados y experimentos prácticos! Volumen I toma el punto de que el usuario de vista energético - los servicios públicos y la funcionalidad accesible a través de adb shell. En particular, se explora: Particiones y sistemas de archivos El proceso de arranque y los archivos de inicialización su configuración Los demonios nativos en el sistema bin La arquitectura de servicios / / marco y ServiceManager, Monitoreo a través de interfaces de Linux, y de Seguridad supuesto. Todas las versiones de Android - hasta e incluyendo el próximo Turrón - están cubiertas, con ejemplos tomados de la amplia gama de dispositivos Android - Nexi, Samsung Galaxy S serie, NVidia Shield, Amazon Kindle, HTC uno M9, y el emulador de Android. Este es el primero de una serie de varios volúmenes, con el objetivo de explorar Android hasta su última clase. Manténgase en sintonía para el Volumen II - vista del programador - que recoge donde termina la vista del usuario de energía, y se sumerge más profundamente aún en el bastidor, de entrada, audio, vídeo y arquitectura de red ... vadear a través de la inevitable pantano de código.</string>
+    <string name="tv_descripcion4">Si usted tiene la ambición de construir una aplicación para Android, esta guía práctica le da todo lo necesario para profundizar en el proceso de desarrollo y convertir su gran idea en una realidad! En esta nueva edición de Android desarrollo de aplicaciones para los maniquíes , encontrará fácil de seguir acceso a las últimas técnicas de programación que se aprovechan de las nuevas características del sistema operativo Android. Además, se proporcionan dos programas: un programa sencillo para empezar y un programa intermedio que utiliza aspectos más avanzados de la plataforma Android.</string>
+
+
+
+    <string name="tv_titulo_detail_book">Titulo</string>
+    <string name="tv_autor_detail_book">Autor</string>
+    <string name="tv_descripcion_detail_book">Descripcion</string>
+
+    <string name="string_transition_photo">Libros Android</string>
+</resources>
