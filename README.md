@@ -7,7 +7,7 @@ Ejemplos de fundamentos Material Design
 Ejemplos de como utilizar los principios Superficies tangibles, Diseño grafico audaz, Movimiento significativo y Diseño Adaptativo, los ejemplos estan basados en el Curso "Material Design for Android Developers" - Udacity.
 
 # Diapositivas
-- [Drive](https://docs.google.com/presentation/d/1KIZOH42niNcuMmPbFWLTGF3KPQZ-qh465O3dQwqdATA/edit?usp=sharing)
+- Slide : [URL](https://docs.google.com/presentation/d/1KIZOH42niNcuMmPbFWLTGF3KPQZ-qh465O3dQwqdATA/edit?usp=sharing)
 
 # Proyectos
 - [Ejemplo 1:](https://github.com/FahedHermoza/GDG-Cusco-MaterialDesign/tree/master/MD-Ejemplo1) Superficies todo en la UI se compone de Piezas de Papel Digital (superficie).Todo en pantalla esta en sobre una superficie. Utilizamos sombras para transmitir elevación relativa.
