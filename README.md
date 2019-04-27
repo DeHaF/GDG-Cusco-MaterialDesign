@@ -26,7 +26,7 @@ Ejemplos de como utilizar los principios Superficies tangibles, Diseño grafico 
 
 ![20181026_213437](https://user-images.githubusercontent.com/8326973/56852976-6273c880-68e7-11e9-94a5-c3b8e7ec8830.gif)
 
-- [Ejemplo 5:](https://github.com/FahedHermoza/GDG-Cusco-MaterialDesign/tree/master/MD-Ejemplo4) Técnica de protección background sirve para mostrar contenido claro y legible en partes de una imagen, en particular iconos y textos, importante en el contenido dinámico.
+- [Ejemplo 5:](https://github.com/FahedHermoza/GDG-Cusco-MaterialDesign/tree/master/MD-Ejemplo5) Técnica de protección background sirve para mostrar contenido claro y legible en partes de una imagen, en particular iconos y textos, importante en el contenido dinámico.
 
 ![20181026_213900](https://user-images.githubusercontent.com/8326973/56853060-5d634900-68e8-11e9-9379-aa38640c7c38.gif)
 
